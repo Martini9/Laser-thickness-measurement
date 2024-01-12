@@ -1,0 +1,5 @@
+SR1IP=192.168.0.10
+SR2IP=192.168.10.10
+SRInterval=2000
+ZMaxValue=0.16
+ZMinValue=0.08
